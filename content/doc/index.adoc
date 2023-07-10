@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Jenkins User Documentation
+title: Jenkins User DocumentationS
 section: doc
 ---
 
